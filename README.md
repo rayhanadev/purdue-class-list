@@ -1,6 +1,6 @@
 # Purdue Class List
 
-This extension parses the [Purdue Course Catalog](https://catalog.purdue.edu/mime/media/17/12496/2024-43-Courses.pdf) and generates a JSON file containing the course data for use in any application.
+This script parses the [Purdue Course Catalog](https://catalog.purdue.edu/mime/media/17/12496/2024-43-Courses.pdf) and generates a JSON file containing the course data for use in any application.
 
 ## Usage
 
